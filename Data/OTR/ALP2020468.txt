@@ -1,0 +1,6 @@
+Name: XXXXXXXX
+Father's Name: XXXXXXXX XXXXX
+Age: 20
+Course: B.Tech
+Course Duration (in years): 4
+OTR Number: ALP2020468
